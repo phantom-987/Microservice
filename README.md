@@ -27,4 +27,5 @@ Update a user — PUT /api/v1/users/{id} — requires a valid token. Changes a u
 Delete a user — DELETE /api/v1/users/{id} — requires a valid token. Removes a user.
 Health check — GET /health — open, no login.
 
+
 check it out : http://127.0.0.1:8000/docs# 
